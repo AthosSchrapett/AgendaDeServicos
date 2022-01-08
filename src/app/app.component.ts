@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { FileUploader } from 'ng2-file-upload';
 
 @Component({
   selector: 'app-root',
